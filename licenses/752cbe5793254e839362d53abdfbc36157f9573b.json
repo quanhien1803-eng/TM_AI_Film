@@ -1,0 +1,12 @@
+{
+ "payload": {
+  "product": "TMAIFilm",
+  "machine": "AB7B-DEC0-5619-4BFB",
+  "plan": "1m",
+  "issued": 1795297204,
+  "start": 1795297204,
+  "expires": 1797889204,
+  "id": "044aa619d01412eb"
+ },
+ "signature": "UEn1U2PAU3IASztQS6D65djiiFbCylf5eDyPkSs32oKg7TnAgCZW9LgGY2LUZCN8Oo8ujx8MX+B1tBppRdg5Aw=="
+}
