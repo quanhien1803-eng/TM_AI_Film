@@ -1,0 +1,12 @@
+{
+ "payload": {
+  "product": "TMAIFilm",
+  "machine": "58B6-1811-B491-82E3",
+  "plan": "1m",
+  "issued": 1795460188,
+  "start": 1795460188,
+  "expires": 1798052188,
+  "id": "3193143dc4413faf"
+ },
+ "signature": "/wkzgnFUp37jp9A9Yprogb53nWnGnTHg3MVVRoVva8JbSOmgeg1RgsIP8GBHIcQXfWD6u2yf5xjnv/xlIOVsBA=="
+}
